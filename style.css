@@ -1,0 +1,142 @@
+.mod-of-word{
+    color:blueviolet;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: 20px;
+    text-align:left;
+}
+body{
+font-family: 'Encode Sans SC', sans-serif;
+margin:0px;
+overflow-x: hidden;
+
+}
+.flexiblility{
+    display: flex;
+   margin-bottom:100px ;
+}
+.half-width{
+    width: 50%;
+    padding-left: 6%;
+    padding-top: 100px;
+    
+    
+}
+.half-width img{
+    width: 80%;
+}
+
+
+.about-me{
+    position: absolute;
+    top: 950px;
+    right:100px;
+    left: 1000px;
+    bottom: 500px;
+    
+    
+     
+}
+#pad-a{
+    margin-bottom: 50px;
+}
+   
+
+
+
+.link-button{
+    text-decoration:black;
+    background-image: linear-gradient(blue,blueviolet);
+    color :white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius:25px;
+    margin-top: 40px;
+}
+.main-banner{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+    
+   
+}
+#main-img{
+    width: 380px;
+    height: 550px;
+    
+
+}
+.recipies{
+    margin-top: 30px;
+    margin-bottom: 50px;
+    
+}
+.recipies p{
+    padding: 2%;
+}
+#rep-pad{
+    margin-bottom: 70px;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+footer p{
+    text-align: center;
+    color: cyan;
+}
+footer h1{
+    text-align: center;
+    color: forestgreen;
+
+}
+#bckground{
+    background:black;
+    margin-left: 0px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    
+}
+.recipies h1{
+    text-align: center;
+}
+.recipies p{
+    text-align: center;
+}
+.box-shape{
+    width: 30%;
+    margin-left:5% ;
+    margin-right: 5%;
+    padding-left: 15px;
+    border-radius: 10px;
+    box-shadow:10px 5px 50px grey ;
+    
+    
+}
+.display-image{
+    width: 90%;
+    padding: 20px 15px ;
+}
+#radius-of-image{
+    height: 280px;
+     border-radius: 40px;
+}
+#box-follower{
+    
+    width: 85%;
+    margin-left:5% ;
+    margin-right: 5%;
+    margin-bottom: 100px;
+    padding-left: 15px;
+    border-radius: 20px;
+    box-shadow:10px 5px 50px grey ;
+
+}
+
+.follower{
+        display: flex;
+       margin-bottom:100px ;
+       padding: 100px;
+}
